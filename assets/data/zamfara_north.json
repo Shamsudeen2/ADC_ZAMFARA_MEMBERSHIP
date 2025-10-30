@@ -1,0 +1,765 @@
+
+
+ { 
+"state":"zamfara", 
+"lgas": [ 
+
+
+{"lga": "kaura-namoda", "wards":[ 
+{"ward": "banga", "polling_units":[ 
+"dandambo-sh-danbo",
+"dan-makulle-shiyar-dan-makulle",
+"dan-tabki-shiyar-dan-tabki",
+"katsaura-shiyar-sabon-gari",
+"kawari-sh-kawari",
+"kogi-i-shiyar-indajiya",
+"rahazawa-i-shiyar-rahazawa",
+"shiyar-jijji-kofar-jijji",
+"shiyar-tsahiru-kofar-tsahiru",
+"sakkere-shiyar-sakkere",
+"shiyar-d-kogi-kofar-d-kogi",
+"shiyar-sarki-kofar-sarki",
+"makera-yar-kasuwa",
+"rahazawa-ii-kofar-hakimi",
+"kogi-ii-kogi-pri-sch",
+"banga-model-pri-sch"
+] 
+ },
+{"ward": "dan-isa", "polling_units":[ 
+"shiyar-siba-primary-school",
+"ruwan-kura-babban-fili",
+"mai-lalle-j-kasa-primary-school",
+"kwalau-tamode-babban-fili",
+"gwamma-dawa-dakin-taro",
+"gidan-juli-dakin-taro",
+"g-gagare-dan-fili",
+"g-bako-shiyar-hakimi",
+"balitawa-primary-school",
+"dan-isa-shiyar-salau",
+"barnawa-adult-education-class",
+"dogon-kade-primary-school",
+"doka-adult-education-class",
+"g-alu-primary-school",
+"g-badda-primary-school",
+"jimrawa-primary-school",
+"kayatawa-primary-school",
+"kaura-zomo-adult-education-class",
+"makoro-babban-fili",
+"sodingo-pri-sch",
+"s-unguwa-adult-edu-class",
+"shiyar-s-gari-dispenary",
+"g-goje-kofar-dangiya"
+] 
+ },
+{"ward": "gabake", "polling_units":[ 
+"gabaken-mesa-kofar-hakimi",
+"getso-kofar-hakimi",
+"gwammanan-kofar-liman",
+"lemu-kofar-hakimi",
+"shiyar-ajiya-kofar-m-wada",
+"shiyar-d-toro-kofar-m-maigandi",
+"shiyar-ma-gayaki-model-primary-school",
+"shiyar-rafi-shiyar-m-garba",
+"tudun-wada-marafa-shiyar-marafa",
+"shiyar-galadima-pri-sch",
+"shiyar-saidi-kofar-hakimi",
+"shiyar-kigudu-kofar-hakimi"
+] 
+ },
+{"ward": "galadima-dan-galadima", "polling_units":[ 
+"garbawa-shiyar-u-dawaki",
+"kasharbawa-shiyar-gado-mai-nama",
+"magizawas-kubambi-primary-school",
+"magizawa-shiyar-uban-dawaki-shiyar-uban-dawaki",
+"magizawa-shiyar-magaji-shiyar-hakimi",
+"ali-bawa-shiyar-d-sanda",
+"baicen-almu-b-poly-academic",
+"shiyar-bula-bore-sh-tsoho",
+"gundumi-sh-alh-mode",
+"s-lugun-saidu-tudun-anai",
+"s-malakai-sh-m-mamman",
+"agira-kofar-barade",
+"allahuwa-shiyar-ayya",
+"dogon-jijji-shiyar-m-sani",
+"garka-shiyar-a-ali",
+"makaranta-bashar-primary-school",
+"shiyar-anace-shiyar-s-fawa",
+"shiyar-abdur-a-uf-shiyar-hakimi",
+"kofar-tsamiya-shiyar-ali-tela",
+"shiyar-barayar-zaki-kofar-samaila-moyi"
+] 
+ },
+{"ward": "kagara", "polling_units":[ 
+"bungudawa-shiyar-hakimi",
+"shiyar-dodo-kofar-a-ummaru",
+"shiyar-mai-zuma-kofar-mai-zuma",
+"shiyar-na-gona-kofar-hakimi",
+"kagara-kofar-hakimi",
+"kagara-falau-bakin-masallaci",
+"tumbus-shiyar-hakimi",
+"rututu-shiyar-magaji",
+"tudun-wada-shiyar-magaji",
+"nasarawa-shiyar-tsamiya",
+"shiyar-janbuzu-kofar-janbuzu"
+] 
+ },
+{"ward": "kungurki", "polling_units":[ 
+"daba-yar-kasuwa-yar-kasuwa",
+"dayau-shiyar-aliyu",
+"disco-bakin-masallachi",
+"fagoji-fagoji-primary-school",
+"shiyar-ajiya-sh-m-sa-idu",
+"madira-shiyar-baraya",
+"s-gari-kaka-mai-famfo-kofar-kaka-mai-famfo",
+"s-gari-sani-kyalle-kofar-sani-kyalle",
+"shiyar-iro-mai-nama-kofar-iro-mai-namai",
+"shiyar-shagon-dan-bus-kofar-shagon-dan-bus",
+"shiyar-galadima-kofar-galadima",
+"sh-tudu-bala-kofar-tudu-bala",
+"s-noma-gado-kofar-s-noma-gado",
+"s-noma-jan-zakawa-kofar-dan-turai",
+"walo-mai-ludo-kofar-d-mai-wake",
+"gidan-sambo-kofar-hakimi",
+"tunga-rairai-shiyar-hakimi",
+"s-g-durumi-wake-durumi"
+] 
+ },
+{"ward": "kurya-madaro", "polling_units":[ 
+"balankabe-primary-school",
+"shiyar-galadima-kofar-salama",
+"garewa-shiyar-alkali",
+"guiwa-shiyar-hakimi",
+"shiyar-jekada-primary-school",
+"matankari-shiyar-mani-daudu",
+"shiyar-sarkin-yaki-shiyar-m-bachiri",
+"shiyar-sarkin-fada-fada-area",
+"shiyar-rafi-sh-alhaji-musa",
+"tunga-ajiya-kofar-ajiya-bala",
+"tudun-wada-tudun-wada-area",
+"magajin-sake-sh-magajin-sake",
+"ruggar-kosau-kofar-hakimi",
+"tozon-kasa-kofar-hakimi"
+] 
+ },
+{"ward": "kyam-barawa", "polling_units":[ 
+"famfifi-primary-school",
+"shiyar-magaji-kofar-hamza",
+"shiyar-s-gari-k-lala-ah",
+"shiyartudu-kofar-musan-daji",
+"shiyar-sabon-gari-kofar-marafa",
+"kofar-ya-shiyar-audu-nasifu",
+"shiyar-dan-galadima-magaji-pri-sch",
+"shiyar-magaji-shiyar-s-tasha",
+"tukasu-sabuwar-kasuwa",
+"zazzaka-primary-school",
+"yar-shagerawa-kanka-sabon-gari",
+"bunaje-primary-school",
+"kofar-fada-shiyar-fada"
+] 
+ },
+{"ward": "s-baura-s-mafara", "polling_units":[ 
+"shiyar-karofi-dangawa",
+"shiyar-ajiya-shiyar-hakimi",
+"sh-dawakawa-shiyar-hakimi",
+"shiyar-jajjaye-makaranta",
+"shiyar-m-didi-kofar-m-didi",
+"shiyar-m-muhammed-kofar-m-mu-azu",
+"makera-kofar-isa-j-saraki",
+"shiyar-sarki-noman-m-t-d",
+"tankwaren-daji-shiyar-a-isah",
+"shiyar-dan-durimi-shiyar-hakimi",
+"tudun-wada-shiyar-wakkala",
+"poly-hostel-poly-clinic",
+"asibitin-mata-kofar-asibitin-mata",
+"bula-shiyar-sada-makaranta",
+"shiyar-sidi-umaru-kofar-sidi-umaru",
+"shiyar-d-jimma-makera",
+"g-r-a-makaranta",
+"kofar-zurmi-shiyar-nayawo",
+"matoyar-tuluna-sh-dansakola",
+"shiyar-sarkin-dawaki-lugun-s-mafara",
+"shiyar-sama-kofar-hakimi",
+"shiyar-dumbami-kofar-hakimi",
+"tsohuwar-tasha-kofar-dandurgu",
+"gidan-ajinna-makaranta",
+"t-dorowa-kofar-iliya-hakimi",
+"dan-gawo-b-makaranta"
+] 
+ },
+{"ward": "sakajiki", "polling_units":[ 
+"abaniyawa-store-s-labbon-i",
+"alko-shiyar-tudu",
+"dagwarwa-shiyar-abasaya",
+"kabaje-primary-school",
+"shiyar-maradun-kofar-maradun",
+"shiyar-kaka-pri-sch",
+"sh-nufawa-kofar-m-d-nuhu",
+"unguwar-sarkin-musulmi-primary-school",
+"badako-tashar-mota",
+"zakuwa-filin-zakuwa",
+"kwalabdawa-tulluwa-kwalabdawa",
+"sh-alu-yar-kwana"
+] 
+ },
+{"ward": "yankaba", "polling_units":[ 
+"majingi-shiyar-a-ambaye",
+"sabon-gida-shiyar-hassan-d-ajo",
+"shiyar-baura-shiyar-m-yahaya",
+"shiyar-dandani-dan-fili",
+"shiyar-magaji-shagon-mande",
+"shiyaryahaya-shiyar-a-barau",
+"lungun-dangiwa-shiyar-m-ambaya",
+"shiyar-audu-gobirawa-shiyar-hakimi",
+"shiyar-liman-kofar-liman",
+"shiyar-s-makera-bakin-makera"
+] 
+ }
+] 
+ } 
+
+ ,
+{"lga": "zurmi", "wards":[ 
+{"ward": "boko", "polling_units":[ 
+"t-mado-primary-school",
+"fallau-town-primary-school",
+"dan-gebe-primary-school",
+"dusti-dumama-adult-education-class",
+"fagoji-primary-school",
+"sodingo-b-kasuwa",
+"jaya-dan-fili",
+"dunfawa-m-p-school",
+"dan-magaji-garkar-liman",
+"ruguji-adult-education-class",
+"gabas-gaboko-m-p-s-boko",
+"u-kofa-kofar-hali",
+"kadawa-primary-school",
+"sagi-adult-education-class",
+"kanammazawa-yar-yara",
+"baice-bacirawa"
+] 
+ },
+{"ward": "dauran-birnin-tsaba", "polling_units":[ 
+"maitsaba-yar-yara",
+"shiyar-magaji-i-birnin-tsaba-primary-school",
+"shiyar-magaji-ii-adult-education-class",
+"shiyar-iro-birnin-primary-school",
+"marakakkai-i-town-primary-school",
+"marakakkai-ii-bakin-kasuwa",
+"kabaka-dan-fili",
+"doroyi-dispensary",
+"kadanya-town-primary-school",
+"riyoji-primary-school",
+"torawa-yar-yara",
+"ajiyawa-bakin-kasuwa",
+"sh-marafa-i-m-p-s-dauran",
+"sh-marafa-ii-m-p-s-dauran",
+"shiyar-marafa-iii-bakin-kasuwa",
+"yar-kaura-dan-fili",
+"maganawa-tsakar-gari",
+"gorgoyo-primary-school",
+"sangamawa-yar-yara",
+"akutawa-garkar-mai-gari",
+"nagi-bakin-kasuwa",
+"mindauka-mararraba",
+"shiyar-dan-galadima-matoya"
+] 
+ },
+{"ward": "dole", "polling_units":[ 
+"gobirawa-kuka-garkar-talange",
+"garkar-kuka-i-bakin-kasuwa",
+"garkar-kuka-ii-m-p-s-dole",
+"garkar-kuka-iii-p-h-c-dole",
+"garkar-kuka-iv-yar-kasuwa",
+"tukullu-adult-education-class",
+"tudun-bugaje-primary-school",
+"gotawa-i-yar-kuka",
+"gotawa-ii-garkar-dala",
+"shiyar-uban-dawaki-yar-katsina",
+"majemawa-i-bakin-majema",
+"majemawa-ii-garkar-sangege"
+] 
+ },
+{"ward": "galadima-yanruwa", "polling_units":[ 
+"sabon-gari-muh-d-a-pri-sch",
+"tudun-sansami-i-town-pri-sch",
+"tudun-sansami-ii-town-dispen",
+"kofar-kasuwa-i-tsohuwar-kasuwa",
+"kofar-kasuwa-ii-mararraba",
+"baicen-allahuwa-filin-baice",
+"tudun-maradun-i-hayi",
+"tudun-maradun-ii-j-n-i-primary-school",
+"ruwan-ido-biyu-i-dan-tudu",
+"ruwan-ido-biyu-ii-dan-tudu",
+"ruwan-ido-biyu-iii-asibiti-yara",
+"kwangwam-i-primary-school",
+"kayawa-town-primary-school",
+"alawa-pri-sch",
+"doguwar-gona-primary-sch",
+"baice-asibiti-darhela",
+"hutsaye-i-dan-fili",
+"hutsaye-ii-adult-education-class",
+"gwalon-kura-dan-haji",
+"yar-kuka-filin-gwari-gami",
+"garkar-mama-gadau-adult-edu-class",
+"yar-kofa-kwangwami-dispensary",
+"san-yawa-asibiti-yara"
+] 
+ },
+{"ward": "kanwa", "polling_units":[ 
+"kanwa-gabbas-m-p-s-kanwa",
+"kanwa-yamma-dan-fili",
+"gidan-jodi-yar-tasha",
+"kaiwa-lamba-primary-school",
+"jabanda-fakai-m-p-s-jabanda",
+"kwabre-nahyace-dogon-marke",
+"gamawa-g-dusti-garkar-liman",
+"gidan-zagi-bakin-kasuwa",
+"takalmawa-primary-school",
+"kadawa-yar-yara",
+"tataka-bakin-kasuwa",
+"ganda-samu-tudun-babi",
+"nasamu-tsakar-gari",
+"jinkirawa-tsara-garkar-tsawa",
+"kufan-malan-guzawa",
+"magarya-i-kwana-saraki",
+"magarya-ii-town-primary-school",
+"jinkirawa-magaji-garkar-magaji"
+] 
+ },
+{"ward": "kuturu-mayasa", "polling_units":[ 
+"shiyar-sarkin-diya-yar-kasuwa",
+"shiyar-galadima-garkar-kuturu",
+"birane-town-pri-sch",
+"baicen-birane-baicen-gabas",
+"koluwa-pri-sch",
+"bugawa-yar-yara",
+"dadin-kowa-garkar-mai-gari",
+"gidan-ladan-mararraba",
+"tsakauna-adult-education-class",
+"gidan-duwa-primary-school",
+"gidan-tsika-primary-school",
+"makosa-primary-school",
+"kuturu-m-p-school",
+"duhu-town-primary-school",
+"tungar-bazace-bakin-kasuwa",
+"gotawa-town-primary-school",
+"yakatawa-b-rane-yakatawa"
+] 
+ },
+{"ward": "kwashbawa", "polling_units":[ 
+"shiyar-ardo-adult-education-class",
+"shiyar-magaji-i-garkar-magaji",
+"shiyar-magaji-ii-town-primary-school",
+"shiyar-marafa-yar-yara",
+"uban-dawaki-bakin-kasuwa",
+"sh-ajiya-kofar-ajiya",
+"mallamawa-hayin-mallamawa",
+"gidan-zaki-mararrabar-hanya",
+"daudawa-garkar-liman",
+"gidan-kada-primary-school",
+"kore-garkar-mai-gari",
+"gidan-kayya-primary-school",
+"gidan-jaja-m-p-school",
+"faru-project-quarters",
+"magajin-gurbi-dan-hili"
+] 
+ },
+{"ward": "mashem", "polling_units":[ 
+"mashema-adult-educ-class",
+"tungar-fulani-gidan-taba",
+"tunfa-garkar-liman",
+"tungar-nasarawa-i-tunfa-pri-sch",
+"tungar-nasarawa-ii-town-p-school",
+"kalage-town-dispensary",
+"garkuwa-dan-tabki",
+"tungar-habibu-dan-hili",
+"ganbiru-yar-kasuwa",
+"mashema-m-p-s-mashema"
+] 
+ },
+{"ward": "rukudawa", "polling_units":[ 
+"rukudawa-m-p-s-rukudawa",
+"labandi-primary-school",
+"gidan-gobirawa-yar-kasuwa",
+"dunmburum-town-primary-school",
+"gidan-fulani-garkar-ardo",
+"tsanu-town-primary-school",
+"madobiya-primary-school",
+"mai-rabbana-yar-tasha",
+"gidan-madawaki-pri-sch",
+"kima-garkar-mai-gari",
+"kaura-dawa-garkar-galadima",
+"gidan-badiye-garkar-badiye",
+"lambar-gabas-baran-baushi",
+"madudduki-bakin-gari",
+"tungar-buzu-yar-yara"
+] 
+ },
+{"ward": "yan-buki-dutsi", "polling_units":[ 
+"yar-tanbus-m-p-s-yanbuki",
+"sh-makera-bakin-makera",
+"rimaye-town-dispen",
+"gidan-barmo-yar-kasuwa",
+"dunu-garkar-mai-gari",
+"maduba-primary-school",
+"gidan-zago-adult-education-class",
+"gidan-kara-primary-school",
+"sh-darma-r-h-c-dutsi",
+"sh-auchi-i-m-p-s-dutsi",
+"maresuwa-i-town-primary-school",
+"maresuwa-ii-garkar-mai-gari",
+"mai-zuma-primary-school",
+"yar-donuwa-bakin-kasuwa",
+"shiyar-auchi-ii-yar-kasuwa",
+"bayan-dutsi-yar-yara",
+"tungar-mata-tundun-matsara",
+"gidan-dan-nunu-bakin-kasuwa"
+] 
+ },
+{"ward": "zurmi", "polling_units":[ 
+"maduba-yar-kasuwa",
+"kadamutsa-i-m-p-s-kadamutsa",
+"kadamutsa-ii-m-p-s-kadamutsa",
+"nasarawa-i-m-p-s-nasarawa",
+"nasarawa-ii-m-p-s-nasarawa",
+"gidan-shaho-garkar-sarkin-noma",
+"dada-shiyar-sabon-gari-zawayya-dada",
+"sh-galadima-yar-yara",
+"rimni-yar-kofar",
+"marmaro-pri-sch",
+"gidan-gadaje-garkar-gadaje",
+"bakon-gebe-yar-magasa",
+"majemawa-i-j-n-i-zurmi",
+"majemawa-ii-j-n-i-zurmi",
+"kofar-kuka-yar-kofa",
+"katanga-i-isau-m-p-s-zurmi",
+"katanga-ii-bakin-kotu",
+"shiyar-gora-women-centre-zurmi",
+"shiyar-mamman-town-dispensary-zurmi",
+"ali-bawa-shiyar-ali-bawa",
+"awala-zumi-awala",
+"gididi-garkar-ardo"
+] 
+ }
+] 
+ } 
+
+
+,
+{"lga": "shinkafi", "wards":[ 
+{"ward": "badarawa", "polling_units":[ 
+"shiyar-galadima-badarawa-primary-school",
+"shiyar-fadama-bakin-tabki",
+"shiyar-sarkin-yaki-i-yar-tsamiya",
+"shiyar-sarkin-yaki-ii-zango",
+"shiyar-ajiya-dan-fili",
+"t-gobirawa-primary-school",
+"t-hashimu-primary-school",
+"t-kado-primary-school"
+] 
+ },
+{"ward": "chiki", "polling_units":[ 
+"chiki-i-primary-school",
+"chiki-ii-shiyar-jekada",
+"chiki-iii-shiyar-marafa-chiki",
+"inwala-inwala-garka",
+"tubali-i-pri-sch",
+"tubali-baice-i-baice-garka",
+"tubali-baice-ii-baice-dan-fili",
+"zaman-gira-primary-school",
+"maiwa-primary-school",
+"tubali-ii-primary-school"
+] 
+ },
+{"ward": "galadi", "polling_units":[ 
+"sh-adamu-mayawa",
+"shiyar-ajiya-garka-tudu",
+"shiyar-d-kane-garka-d-kane",
+"shiyar-kuro-garka-d-kuro",
+"shiyar-sarkin-yaki-kadage",
+"sh-magaji-kaga-rawa",
+"kabawa-kabawa-clinic",
+"sh-sabon-gari-s-gari",
+"kagara-garadi-primary-school",
+"gidan-rijiya-i-primary-school",
+"gidan-rijiya-ii-primary-school",
+"batamna-primary-school",
+"sabaje-primary-school",
+"g-nababba-primary-school",
+"bula-primary-school",
+"tangyalle-tangyalle-ardo",
+"maikama-rini-primary-school"
+] 
+ },
+{"ward": "jangeru", "polling_units":[ 
+"jangeru-primary-school",
+"tsohuwar-garka-jangeru-t-garka",
+"kada-araba-i-kada-araba",
+"kada-araba-ii-yar-herama",
+"yar-balaso-yar-balaso",
+"kurya-yar-kurya",
+"shiyar-arna-sh-arna",
+"shiyar-dikko-gidan-dan-ade",
+"shiyar-gohe-malam-sh-g-malam",
+"shiyar-magaji-sh-magaji",
+"shiyar-gohe-garkar-alasan",
+"baice-primary-school",
+"shiyar-wakili-garkar-mamman-wakili",
+"muda-li-a-mudali-a",
+"kayaye-t-kayaye",
+"baje-i-filin-masau",
+"baje-ii-baje-primary-school",
+"baje-iii-amangawa"
+] 
+ },
+{"ward": "katuru", "polling_units":[ 
+"shiyar-baraya-i-sh-baraya-area",
+"shiyar-na-umma-katuru",
+"shiyar-audu-katuru-primary-school",
+"shiyar-baraya-ii-katuru-primary-school",
+"garin-goga-primary-school",
+"barka-da-yabo-primary-school",
+"kafin-mazuga-primary-school",
+"zangon-hassi-zango",
+"mallamawa-primary-school",
+"t-kahau-primary-school",
+"januhu-primary-school"
+] 
+ },
+{"ward": "kurya", "polling_units":[ 
+"sh-magaji-kurya-primary-school",
+"sh-s-rafi-filin-yar-kofa",
+"t-kolo-primary-school",
+"dakwarawa-primary-school",
+"bagare-primary-school",
+"gangara-i-primary-school",
+"fakai-i-limawa-fakai",
+"fakai-ii-fakai-primary-school",
+"balela-primary-school",
+"katsira-primary-school",
+"gangara-ii-shiyar-dutsi"
+] 
+ },
+{"ward": "kware", "polling_units":[ 
+"sh-magaji-i-bakin-kasuwa",
+"sh-magaji-ii-kware-pri-sch",
+"j-s-s-kware-i-j-s-s-kware",
+"j-s-s-kware-ii-garkar-galadima",
+"gobirawa-garkar-yar-kofa",
+"asarara-primary-school",
+"atarawa-primary-school",
+"kukar-banda-dan-fili",
+"gidan-achali-primary-school",
+"kursasa-primary-school"
+] 
+ },
+{"ward": "shanawa", "polling_units":[ 
+"shiyar-galadima-i-shanawa-dispensary",
+"shiyar-galadima-ii-centre",
+"shiyar-rahaje-kwakwara",
+"shiyar-ajiya-i-shanawa-primary-school",
+"shiyar-ajiya-ii-bakin-kasuwa",
+"ajiyawa-primary-school"
+] 
+ },
+{"ward": "shinkafi-north", "polling_units":[ 
+"tashar-maduwa-bakin-tasha",
+"yar-shantali-n-t-c",
+"fushin-gina-i-garkar-alh-bala",
+"fushin-gina-ii-garkar-d-abu",
+"ganuwa-garkar-mai-buhu",
+"magaji-dango-i-primary-school",
+"magaji-dango-ii-primary-school",
+"magaji-dango-iii-primary-school",
+"magaji-dango-iv-primary-school",
+"t-adambo-bakin-comm-bank",
+"yar-aduwa-i-sabuwa",
+"yar-aduwa-ii-tsohuwa",
+"yan-kukoki-i-gidan-addo",
+"yan-kukoki-ii-yan-kukoki",
+"marna-i-makaranta",
+"gidan-yalo-garkar-mamman-yalo",
+"marna-ii-bakin-marina-saule",
+"shiyar-ajiya-sh-ajiya",
+"yar-marece-i-yan-haya",
+"yar-marece-ii-garage",
+"shiyar-yar-aduwa-yar-aduwa",
+"sabon-garwa-primary-school"
+] 
+ },
+{"ward": "shinkafi-south", "polling_units":[ 
+"yar-kofa-i-mudalia-area",
+"yar-kofa-ii-b-gida-mai-turare",
+"fegen-gara-i-bakin-gawo",
+"fegen-gara-ii-bakin-elf-filing-station",
+"fegen-gara-iii-b-gidan-shamba",
+"fegen-gara-iv-vet-office",
+"sabon-gari-i-guraguri-pri-sch",
+"sabon-gari-ii-guraguri-primary-school",
+"maberaya-i-maberaya-primary-school",
+"maberaya-ii-maberaya-primary-school"
+] 
+ }
+] 
+ } 
+
+,
+{"lga": "birnin-magaji", "wards":[ 
+{"ward": "birnin-magaji", "polling_units":[ 
+"gidan-dawa-shiyar-maigari",
+"gidan-kyabda-pri-sch",
+"magare-i-kofar-magare",
+"magare-ii-dan-fili",
+"shiyar-ardo-area-court",
+"shiyar-galadima-i-primary-school",
+"shiyar-galadima-ii-tsamiyar-dutsi",
+"shiyar-liman-filin-a-kadangara",
+"shiyar-magaji-garkar-magaji",
+"shiyar-maidawa-model-pri-sch",
+"shiyar-zarumai-i-library",
+"shiyar-zarumai-ii-karamar-asibiti"
+] 
+ },
+{"ward": "danfami-sabon-birini", "polling_units":[ 
+"buntume-i-kofar-magaji",
+"buntume-ii-shagon-ada",
+"dan-fami-i-shiyar-magaji",
+"dan-fami-ii-shiyar-galadima",
+"danwala-bakin-masallaci",
+"gidan-kaso-i-shiyar-maidamma",
+"gidan-kaso-ii-shiyar-bawale",
+"gidan-namaganga-shiyar-dan-indo",
+"sabon-birnin-dan-ali-i-pri-sch",
+"sabon-birnin-dan-ali-ii-shiyar-hakimi",
+"shamushale-i-shiyar-sabon-gari",
+"shamushale-ii-shiyar-wakili",
+"danturmi-shiyar-ada-indiya"
+] 
+ },
+{"ward": "gora", "polling_units":[ 
+"bukut-tabkin-kabaji-garkar-hakimi",
+"gidan-bagaye-i-shiyar-wakili",
+"gidan-bagaye-ii-bakin-masallci",
+"gidan-buzu-garkar-a-mande",
+"gidan-katsinawa-garkar-hakimi",
+"gora-i-adult-edu-class",
+"gora-ii-primary-school",
+"kannu-i-gidan-labaran",
+"kannu-ii-sh-u-dawaki-garkar-m-garba",
+"kogin-gabinda-bakin-masallaci",
+"madambaji-garkar-hakimi",
+"madambaji-garkar-s-filani",
+"illojiya-kofar-galadima",
+"torawa-garkar-maigari",
+"shagerawa-bakin-massallacin-j",
+"yauta-baki-i-shiyar-liman",
+"yauta-baki-ii-garkar-hakimi"
+] 
+ },
+{"ward": "gusami-gari", "polling_units":[ 
+"ung-gamji-shiyar-galadima",
+"gidan-goje-gidan-dan-bakano",
+"gidan-ibro-kofar-gidan-s-yaki",
+"maijan-ido-primary-school",
+"jela-kofar-gidan-m-wakkala",
+"shanawa-gidan-tudu-gado",
+"shiyar-galadima-gusami-kofar-gidan-hakimi",
+"shiyar-marafai-i-primary-school",
+"shiyar-marafai-ii-shiyar-marafa",
+"hayinwakili-kofar-gidan-tamban"
+] 
+ },
+{"ward": "gusami-hayi", "polling_units":[ 
+"mai-kuru-kofar-gidan-s-gari",
+"gidan-duna-shiyar-magaji",
+"masha-awo-kofar-gidan-ajiya-idi",
+"maradawa-maradawa",
+"morai-morai-g-d-babba",
+"sakeen-kade-kofar-gidan-a-labbo",
+"gidan-bajini-kofar-gidan-bajini",
+"gidan-joli-kofar-gidan-joli",
+"mazauda-mazauda"
+] 
+ },
+{"ward": "kiyawa", "polling_units":[ 
+"akuzo-shiyar-hakimi",
+"dabawa-maradawa",
+"dutsin-wake-i-kofar-ciroma",
+"dutsin-wake-ii-kofar-saidu",
+"garin-mai-aiki-gidan-buda",
+"gidan-namaza-kofar-hashimu",
+"karfa-g-hakimi",
+"kiyawa-kofar-gidan-asiya",
+"mahanga-kofar-gidan-mudi",
+"makera-i-shiyar-dan-buda",
+"makera-ii-shiyar-s-yaki",
+"nasarawa-sh-galadima-kofar-gidan-labbo",
+"nasarawa-sh-sabon-gari-kofar-g-dan-adamu",
+"oho-kofar-gidan-a-iro",
+"usu-kofar-gidan-maru"
+] 
+ },
+{"ward": "modomawa-east", "polling_units":[ 
+"gidan-dan-marafa-garkar-hakimi",
+"gidan-namuniya-garkar-hakimi",
+"kirifada-primary-school",
+"nadosara-garkar-hakimi",
+"rura-garkar-hakimi",
+"tasha-primary-school",
+"sabon-gari-garkar-hakimi",
+"sitasi-primary-school",
+"yar-gusau-garkar-hakimi",
+"birdid-birdid",
+"gidan-katakare-kofar-gidan-katakare"
+] 
+ },
+{"ward": "modomawa-west", "polling_units":[ 
+"challi-primary-school",
+"danlami-garkar-hakimi",
+"garka-i-maradawa",
+"garka-ii-masaka",
+"gidan-rabo-primary-school",
+"gobirawa-garkar-uwaisu",
+"sakkere-i-primary-school",
+"sakkere-ii-garkar-a-hakimi",
+"shiyar-galadima-garkar-mai-gari",
+"kofar-modomawa-asibitin-modamawa",
+"zinare-kofar-gidan-mazara",
+"dadi-marafa-kanwuri",
+"nasarawa-garka"
+] 
+ },
+{"ward": "nasarawa-godal-east", "polling_units":[ 
+"chigama-i-garkar-hakimi",
+"chigama-ii-shiyar-baraya",
+"gidan-dan-dambo-garkar-hakimi",
+"gidan-kaka-kofar-gidan-kaka",
+"katsinawa-garkar-marafa",
+"kokiya-i-shiyar-galadima",
+"kokiya-ii-shiyar-sabon-gari",
+"marakawa-kofar-gidan-hakimi",
+"tsabre-gari-primary-school",
+"tsabre-tunga-tsabre"
+] 
+ },
+{"ward": "nasarawa-godal-west", "polling_units":[ 
+"dibgawa-garka",
+"kukkubi-shiyar-marafa",
+"gidan-dan-sama-pri-sch",
+"jaddawa-i-primary-school",
+"jaddawa-ii-garkar-marafa",
+"maigamo-garkar-marafa",
+"shiyar-daudu-i-b-gidan-ladan",
+"shiyar-dauda-ii-gidan-tsalha-liman",
+"shiyar-s-diya-b-gidan-liman",
+"shiyar-galadima-rimi",
+"shiyar-magaji-kofar-s-aski",
+"shiyar-magaji-abu-hel-kota",
+"tsamaiku-kofar-magaji"
+] 
+ }
+] 
+ } 
+
+]
+ }

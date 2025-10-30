@@ -1,0 +1,28 @@
+# Ignore uploads and user data
+/uploads/
+/admin/uploads/
+
+# Environment and secrets
+.env
+
+# PHP / Composer
+/vendor/
+/composer.lock
+
+# Node
+/node_modules/
+
+# IDE/editor
+/.idea/
+/.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Ignore database files
+*.sqlite
+*.db
