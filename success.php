@@ -6,7 +6,7 @@
     <title>Registration Successful</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-
+jjjjggg
 <body class="p-5 text-center bg-light">
     <div class="container">
         <div class="card p-5 shadow">
